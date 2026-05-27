@@ -9,27 +9,11 @@
 - mkdir
 - cd
 - touch
-- ls
+- echo
 - cat
-
-## Outcome
-
-Successfully completed basic Linux navigation and file management exercises in Kali Linux.
-
-## Commands Practiced
-
-pwd
-whoami
-hostname
-ip a
-mkdir
-cd
-touch
-echo
-cat
-ls
-cp
-mv
+- ls
+- cp
+- mv
 
 ## Outcome
 
